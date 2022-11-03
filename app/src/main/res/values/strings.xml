@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">UberUX-Kotlin</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDjj7MnMXHKwhIc2cX7ItvnL5KqdzQkG6M</string>
+    <string name="enter_no">Ingresa tu numero telefonico</string>
+    <string name="phone_hint">Ingresa tu numero telefonico</string>
+    <string name="get_moving">Empieza a utilizar Parclick</string>
+    <string name="transition_arrow">transition_arrow</string>
+    <string name="transition_tvMoving">transition_tvMoving</string>
+    <string name="transition_ivFlag">transition_ivFlag</string>
+    <string name="transition_tvCode">transition_tvCode</string>
+    <string name="transition_tvPhoneNo">transition_tvPhoneNo</string>
+    <string name="transition_llPhone">transition_llPhone</string>
+    <string name="welcome_back">Bienvenido de vuelta! inicia sesion para continuar</string>
+    <string name="pick_option">¿Que deseas hacer?</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
